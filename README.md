@@ -17,9 +17,11 @@ orthogonal groups in Lean theorem prover. The project includes the following fil
 * orthogonal and special orthogonal groups.
 
 Acknowledgments
+
 Special thanks to Professor Jaclyn Lang for her support in this project.
 
 Contact
+
 If you have any questions, comments, or suggestions, please contact 
 tasniakader@outlook.com
 
