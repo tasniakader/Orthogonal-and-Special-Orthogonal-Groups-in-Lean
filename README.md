@@ -1,6 +1,6 @@
 # Orthogonal and Special Orthogonal Groups in Lean Theorem Prover
 
-This undergraduate research project, completed in the Spring 2023 semester at Temple University, formalizes the orthogonal and special 
+This undergraduate research project, conducted in the Spring 2023 semester at Temple University, formalizes the orthogonal and special 
 
 orthogonal groups in Lean theorem prover. The project includes the following files:
 
@@ -20,6 +20,6 @@ Acknowledgments
 Special thanks to Professor Jaclyn Lang for her support in this project.
 
 Contact
-If you have any questions or comments about this project, please contact 
+If you have any questions, comments, or suggestions, please contact 
 tasniakader@outlook.com
 
