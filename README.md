@@ -6,7 +6,7 @@ This undergraduate research project, conducted in the Spring 2023 semester at Te
 
 * orthogonal_group.lean : This file defines the orthogonal group, its properties, and related theorems.
 
-* orth_to_dihedral.lean : This file provides a proof for a group homomorphism from the orthogonal group to the dihedral group.
+* orth_to_dihedral.lean : This file provides a proof for a group homomorphism from the dihedral group to the orthogonal group in two dimensions.
 
 * special_orthogonal_group.lean : This file defines the special orthogonal group, its properties, and related theorems.
 
