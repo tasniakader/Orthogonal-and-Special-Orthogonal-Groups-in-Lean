@@ -15,7 +15,7 @@ This undergraduate research project, conducted in the Spring 2023 semester at Te
 
 ## Acknowledgments
 
-Special thanks to Professor Jaclyn Lang for her support in this project.
+Special thanks to Professor Jaclyn Lang for her support and invaluable insights throughout this project.
 
 
 ## Contact
